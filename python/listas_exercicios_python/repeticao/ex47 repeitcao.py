@@ -1,0 +1,10 @@
+dados = []
+dados.append(input('Atleta: '))
+dados.append([float(input('nota: '))for n in range(7)])
+print('Resultado final:')
+print(f'Atleta: {dados[0]}')
+print(f'Melhor nota: {max(dados[1])}')
+print(f'Pior nota: {min(dados[1])}')
+dados[1].remove(max(dados[1]))
+dados[1].remove(min(dados[1]))
+print(f'Media: {sum(dados[1])/len(dados[1])}')

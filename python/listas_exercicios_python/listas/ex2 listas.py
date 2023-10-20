@@ -1,0 +1,4 @@
+# cria uma lista
+lista = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0]
+# imprime a lista ao contrario
+print(lista[::-1])
