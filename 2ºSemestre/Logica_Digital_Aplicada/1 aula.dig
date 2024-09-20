@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<circuit>
+  <version>1</version>
+  <attributes/>
+  <visualElements>
+    <visualElement>
+      <elementName>Relay</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>k1</string>
+        </entry>
+      </elementAttributes>
+      <pos x="-460" y="360"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Switch</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>ch1</string>
+        </entry>
+      </elementAttributes>
+      <pos x="-600" y="320"/>
+    </visualElement>
+    <visualElement>
+      <elementName>VDD</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>fi</string>
+        </entry>
+      </elementAttributes>
+      <pos x="-740" y="320"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Ground</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+      </elementAttributes>
+      <pos x="-360" y="320"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Relay</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>k2</string>
+        </entry>
+      </elementAttributes>
+      <pos x="-460" y="560"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Switch</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>ch2</string>
+        </entry>
+      </elementAttributes>
+      <pos x="-600" y="520"/>
+    </visualElement>
+    <visualElement>
+      <elementName>VDD</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>f2</string>
+        </entry>
+      </elementAttributes>
+      <pos x="-740" y="520"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Ground</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+      </elementAttributes>
+      <pos x="-360" y="520"/>
+    </visualElement>
+    <visualElement>
+      <elementName>VDD</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+      </elementAttributes>
+      <pos x="-540" y="400"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes/>
+      <pos x="-100" y="460"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Relay</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>k3</string>
+        </entry>
+      </elementAttributes>
+      <pos x="-460" y="0"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Switch</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>ch3</string>
+        </entry>
+      </elementAttributes>
+      <pos x="-600" y="-40"/>
+    </visualElement>
+    <visualElement>
+      <elementName>VDD</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>fi</string>
+        </entry>
+      </elementAttributes>
+      <pos x="-740" y="-40"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Ground</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+      </elementAttributes>
+      <pos x="-360" y="-40"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Relay</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>k4</string>
+        </entry>
+      </elementAttributes>
+      <pos x="-460" y="200"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Switch</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>ch4</string>
+        </entry>
+      </elementAttributes>
+      <pos x="-600" y="160"/>
+    </visualElement>
+    <visualElement>
+      <elementName>VDD</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>f3</string>
+        </entry>
+      </elementAttributes>
+      <pos x="-740" y="160"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Ground</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+      </elementAttributes>
+      <pos x="-360" y="160"/>
+    </visualElement>
+    <visualElement>
+      <elementName>VDD</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+      </elementAttributes>
+      <pos x="-540" y="40"/>
+    </visualElement>
+    <visualElement>
+      <elementName>VDD</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>f5</string>
+        </entry>
+      </elementAttributes>
+      <pos x="-60" y="100"/>
+    </visualElement>
+    <visualElement>
+      <elementName>LED</elementName>
+      <elementAttributes/>
+      <pos x="100" y="120"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Ground</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="1"/>
+        </entry>
+      </elementAttributes>
+      <pos x="60" y="60"/>
+    </visualElement>
+    <visualElement>
+      <elementName>RelayDT</elementName>
+      <elementAttributes/>
+      <pos x="-20" y="100"/>
+    </visualElement>
+  </visualElements>
+  <wires>
+    <wire>
+      <p1 x="-560" y="320"/>
+      <p2 x="-460" y="320"/>
+    </wire>
+    <wire>
+      <p1 x="-740" y="320"/>
+      <p2 x="-600" y="320"/>
+    </wire>
+    <wire>
+      <p1 x="-420" y="320"/>
+      <p2 x="-360" y="320"/>
+    </wire>
+    <wire>
+      <p1 x="-560" y="160"/>
+      <p2 x="-460" y="160"/>
+    </wire>
+    <wire>
+      <p1 x="-740" y="160"/>
+      <p2 x="-600" y="160"/>
+    </wire>
+    <wire>
+      <p1 x="-420" y="160"/>
+      <p2 x="-360" y="160"/>
+    </wire>
+    <wire>
+      <p1 x="-500" y="0"/>
+      <p2 x="-460" y="0"/>
+    </wire>
+    <wire>
+      <p1 x="-420" y="0"/>
+      <p2 x="-160" y="0"/>
+    </wire>
+    <wire>
+      <p1 x="-60" y="100"/>
+      <p2 x="-20" y="100"/>
+    </wire>
+    <wire>
+      <p1 x="-560" y="-40"/>
+      <p2 x="-460" y="-40"/>
+    </wire>
+    <wire>
+      <p1 x="-740" y="-40"/>
+      <p2 x="-600" y="-40"/>
+    </wire>
+    <wire>
+      <p1 x="-420" y="-40"/>
+      <p2 x="-360" y="-40"/>
+    </wire>
+    <wire>
+      <p1 x="-560" y="520"/>
+      <p2 x="-460" y="520"/>
+    </wire>
+    <wire>
+      <p1 x="-740" y="520"/>
+      <p2 x="-600" y="520"/>
+    </wire>
+    <wire>
+      <p1 x="-420" y="520"/>
+      <p2 x="-360" y="520"/>
+    </wire>
+    <wire>
+      <p1 x="-500" y="360"/>
+      <p2 x="-460" y="360"/>
+    </wire>
+    <wire>
+      <p1 x="-420" y="360"/>
+      <p2 x="-160" y="360"/>
+    </wire>
+    <wire>
+      <p1 x="-540" y="40"/>
+      <p2 x="-500" y="40"/>
+    </wire>
+    <wire>
+      <p1 x="-500" y="200"/>
+      <p2 x="-460" y="200"/>
+    </wire>
+    <wire>
+      <p1 x="-420" y="200"/>
+      <p2 x="-160" y="200"/>
+    </wire>
+    <wire>
+      <p1 x="-160" y="460"/>
+      <p2 x="-100" y="460"/>
+    </wire>
+    <wire>
+      <p1 x="-540" y="400"/>
+      <p2 x="-500" y="400"/>
+    </wire>
+    <wire>
+      <p1 x="-500" y="560"/>
+      <p2 x="-460" y="560"/>
+    </wire>
+    <wire>
+      <p1 x="-420" y="560"/>
+      <p2 x="-160" y="560"/>
+    </wire>
+    <wire>
+      <p1 x="20" y="120"/>
+      <p2 x="100" y="120"/>
+    </wire>
+    <wire>
+      <p1 x="-160" y="60"/>
+      <p2 x="-20" y="60"/>
+    </wire>
+    <wire>
+      <p1 x="20" y="60"/>
+      <p2 x="60" y="60"/>
+    </wire>
+    <wire>
+      <p1 x="-500" y="360"/>
+      <p2 x="-500" y="400"/>
+    </wire>
+    <wire>
+      <p1 x="-500" y="0"/>
+      <p2 x="-500" y="40"/>
+    </wire>
+    <wire>
+      <p1 x="-500" y="40"/>
+      <p2 x="-500" y="200"/>
+    </wire>
+    <wire>
+      <p1 x="-500" y="400"/>
+      <p2 x="-500" y="560"/>
+    </wire>
+    <wire>
+      <p1 x="-160" y="360"/>
+      <p2 x="-160" y="460"/>
+    </wire>
+    <wire>
+      <p1 x="-160" y="0"/>
+      <p2 x="-160" y="60"/>
+    </wire>
+    <wire>
+      <p1 x="-160" y="460"/>
+      <p2 x="-160" y="560"/>
+    </wire>
+    <wire>
+      <p1 x="-160" y="60"/>
+      <p2 x="-160" y="200"/>
+    </wire>
+  </wires>
+  <measurementOrdering/>
+</circuit>

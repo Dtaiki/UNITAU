@@ -1,0 +1,1 @@
+elaborar o projeto para um circuito miltiplexador 8x1 e de multiplexador 1x8 e comprovar o direcionamento por simulacao

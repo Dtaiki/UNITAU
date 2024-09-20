@@ -1,0 +1,6 @@
+exercicio 
+
+elaborar um programa de uma alu capaz de realizar soma, sutracao, multiplicacao, divisao e ou exclusivo para duas entradas de 4 bits 
+considerar um decodificador para solucao ou operacao com cs
+
+comparador de magnitude

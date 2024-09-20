@@ -1,0 +1,77 @@
+Banco de dados
+	Arquitetura de sistemas de banco de dados
+	Modelo entidade relacionamento
+	Modelo relacional
+	Normalização
+	Algebra relacional
+
+Tipo de db
+	Hierarquico
+		pai para filho
+	Rede
+		muitos dados aponta para um registro
+		nao precisa passar pela raiz
+	Relacional
+		utiliza uma tanela que relaciona dois dados
+		(cod_cliente - cod_conta)
+	Orientado a objetos
+		Utiliza classes
+
+Arquitetura de banco de dados
+	Projeto logico
+		tem que prever o volume de uso,
+		qual tipo de dados sera registrado,
+		como irá funcionar
+		Deve ser facil de entender
+		variedade de tipos
+		multiplataforma
+
+tipo de banco de dados
+	Nivel interno
+		descreve o fisico
+	Conceitual
+		esquema das entidades e relacionamentos
+	Externo ou visao
+		mostra apenas o necessario para cada usuario
+	Requisitos
+		dados de como o cliente descreve o que deve ter no banco
+	Conceitual
+		modelagem do banco
+	Logico
+		modelo mais tecnico do banco
+	Fisico
+		Script
+
+Entidade relacionamento
+	Modelo baseado na percepção do mundo real
+	Diagrama ER
+		Retangulos = entidades
+		Elipses = atributos
+		losangos = relacionamento
+		linhas = ligacao entre entidade e relacionamento
+	atributo monovalorado 
+		tem um unico valor
+	atributo composta
+		é formado por mais subatributos
+	atributo multivalorado
+		tem mais que apenas um dado do mesmo tipo
+		esta no plural
+	atributo determinante
+		indentifica cada entidade de uma tabela
+	dominio de atributo
+		sao os dados permitidos para um atributo
+
+Relacionamento
+	1-1
+	1-n
+	n-n
+	um relacionamento nao pode ser relacionado a outro relacionamento
+
+Conceito banco de dados relacional
+	Chave primaria
+		a linha da tabela sempre deve conter um meio de ser referenciado
+		nao se repete
+	Chave estrangeira
+		é o que relaciona uma tabela a outra
+		precisa ser uma chave primaria de outra tabela
+		

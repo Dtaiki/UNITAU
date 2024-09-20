@@ -1,0 +1,16 @@
+SELECT * FROM visitante;
+-- SELECT * FROM bilhete;
+-- SELECT * FROM compra;
+-- SELECT * FROM setores;
+-- SELECT * FROM funcionario;
+-- SELECT * FROM tanques;
+-- SELECT * FROM especie;
+-- SELECT * FROM animais;
+-- SELECT * FROM contem;
+-- SELECT * FROM biologo;
+-- SELECT * FROM cuida;
+-- SELECT * FROM alimento;
+-- SELECT * FROM consome;
+-- SELECT * FROM estoque;
+-- SELECT * FROM fornecedor;
+-- SELECT * FROM fornece;

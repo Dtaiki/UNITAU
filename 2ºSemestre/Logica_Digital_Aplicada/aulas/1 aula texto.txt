@@ -1,0 +1,47 @@
+de morgan(eu acho)
+definicao circuitos combinacionais
+	circuitos nos quais os estados dos seus stats de saidas dependem dos estados dos sinais aplicados em suas entradas.
+
+topicos sobre diagramas de veitch karnaugh
+	considerar 
+		s= a.b+a.!b
+		s= a.(b+!b)		b=0 > 1 	b=1 > 1 	s=a
+		s= (a.!b)+(!a.b)		s= a.b
+	diagrama de karno
+
+	b a  s
+	0 0  0
+	0 1  1
+	1 0  1
+	1 1  1
+
+	 s !b  b
+	!a  0  1
+	 a  1  1	s= a+b  or
+
+	 s !b  b
+	!a  0  1	s= a(xor)b
+	 a  1  0	s= (a.!b)+(!a.b)  xor
+
+
+circuito meio somador (half adder)
+	conceitos sobre a soma de 2 numeros binarios de 1 bit
+		0+0= 0
+		1+0= 1
+		0+1= 1
+		¹1+1= 0
+
+	tabela verdade
+		b a  s b
+		0 0  0 0
+		0 1  1 0
+		1 0  1 0
+		1 1  0 1
+
+		 s !b  b
+		!a  0  1	s= a(xor)b
+		 a  1  0	s= (a.!b)+(!a.b)  xor
+
+		   !b  b
+		!a  0  0
+		 a  0  1	ts= a.b

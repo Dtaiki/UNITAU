@@ -1,0 +1,8 @@
+tabla verdade (somador completo)
+	excel
+
+elaborar o circuito logico capaz de realizar a seguinte operação aritmetica na base binaria
+	excel
+
+conceito sobre subtracao de 2 numeros de 1bit
+	excel

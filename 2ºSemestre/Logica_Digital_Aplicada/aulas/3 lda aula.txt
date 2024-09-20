@@ -1,0 +1,4 @@
+
+definicao circuitos combinacionais
+	circuitos nos quais os estados dos seus stats de saidas dependem dos estados dos sinais aplicados em suas entradas.
+
